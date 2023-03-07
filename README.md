@@ -1,3 +1,3 @@
 # StackTrek_Activities
 
-TActivities are located on the src folder
+The activities are located on the src folder
