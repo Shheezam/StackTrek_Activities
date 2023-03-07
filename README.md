@@ -1,3 +1,3 @@
 # StackTrek_Activities
 
-The Activity/Activities are inside the 'master' branch
+The Activities are inside the 'master' branch
